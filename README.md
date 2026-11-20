@@ -1,3 +1,12 @@
+# Mon projet
+
+## Tableau de bord
+
+Voici un aperçu de mon application.
+
+### Dashboard principal
+
+![Dashboard](dashbord_client.png)
 # analyse-comportement-clients
 Analyse des comportements clients et segmentation pour orienter les campagnes marketing avec Python, PostgreSQL et Power BI.
 
@@ -31,15 +40,7 @@ Les captures d'écran du tableau de bord seront présentées ci-dessous.
 <!-- Ajouter ici les captures d'écran Power BI -->
 
 ## Source des données
-# Mon projet
 
-## Tableau de bord
-
-Voici un aperçu de mon application.
-
-### Dashboard principal
-
-![Dashboard](dashbord_client.png)
 
 
 
