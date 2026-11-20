@@ -39,7 +39,7 @@ Voici un aperçu de mon application.
 
 ### Dashboard principal
 
-![Dashboard](screenshots/dashbord_client.png)
+![Dashboard](dashbord_client.png)
 
 
 
