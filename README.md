@@ -31,6 +31,17 @@ Les captures d'écran du tableau de bord seront présentées ci-dessous.
 <!-- Ajouter ici les captures d'écran Power BI -->
 
 ## Source des données
+# Mon projet
+
+## Tableau de bord
+
+Voici un aperçu de mon application.
+
+### Dashboard principal
+
+![Dashboard](screenshots/dashbord_client.png)
+
+
 
 Données issues de [data.gouv.fr](https://www.data.gouv.fr/).
 
